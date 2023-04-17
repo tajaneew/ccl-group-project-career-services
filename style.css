@@ -167,7 +167,7 @@ header h2 {
     position: absolute;
     width: 520px;
     height: 320px;
-    top: 28.8vh;
+    top: 7.8vh;
     left: 55px;
     border-radius: 20px;
  }
@@ -178,7 +178,7 @@ header h2 {
     width: 153px;
     height: 24px;
     left: 949px;
-    top: 25vh;
+    top: 6vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -192,7 +192,7 @@ header h2 {
     width: 469px;
     right: 90px;
     left: 791px;
-    top: 30vh;
+    top: 11vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -206,7 +206,7 @@ header h2 {
     position: absolute;
     width: 500px;
     height: 105px;
-    top: 39vh;
+    top: 21vh;
     left: 772px;
     font-family: 'Roboto';
     font-style: normal;
@@ -220,7 +220,7 @@ header h2 {
     position: absolute;
     width: 400px;
     height: 156px;
-    top: 55vh;
+    top: 37vh;
     left: 822px;
     font-family: 'Roboto';
     font-style: normal;
@@ -235,7 +235,7 @@ header h2 {
     position: absolute;
     height: 19px;
     left: 931px;
-    top: 78vh;
+    top: 60vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -361,8 +361,8 @@ header h2 {
     position: absolute;
     width: 181px;
     height: 24px;
-    left: 637px;
-    top: -3vh;
+    left: 616px;
+    top: -6vh;
 
     font-family: 'Inter';
     font-style: normal;
@@ -379,7 +379,7 @@ header h2 {
     width: 569px;
     height: 45px;
     left: 414px;
-    top: 1vh;
+    top: -1vh;
 
     font-family: 'Inter';
     font-style: normal;
@@ -397,7 +397,7 @@ header h2 {
     width: 500px;
     height: 59px;
     left: 448.5px;
-    top: 9vh;
+    top: 7vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -566,7 +566,7 @@ input[type=text], select, textarea {
     background: #3056D3;
     border-radius: 5px; 
     left: 20px;
-    top: 62vh;
+    top: 67vh;
     color: white;
  }
 
